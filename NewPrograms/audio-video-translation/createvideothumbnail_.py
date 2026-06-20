@@ -18,7 +18,7 @@ from google.colab import files
 from huggingface_hub import login
 from IPython.display import display
 
-login("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")
+login("")
 
 def get_video_stream_path(video_input: str) -> str:
     """
